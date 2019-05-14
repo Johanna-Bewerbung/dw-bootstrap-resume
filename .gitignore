@@ -1,1 +1,6 @@
 node_modules
+/img/
+/vendor/jquery/
+/vendor/fontawesome-free/
+/vendor/jquery-easing/
+/js/
